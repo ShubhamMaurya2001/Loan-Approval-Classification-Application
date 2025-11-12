@@ -77,7 +77,3 @@ This project demonstrates a **realistic financial risk modeling workflow**, from
 <img width="1918" height="923" alt="Screenshot 2025-10-25 210147" src="https://github.com/user-attachments/assets/4a6ba0f3-c334-478f-8c41-3249cb04688c" />
 
 <img width="1919" height="1017" alt="Screenshot 2025-10-25 210208" src="https://github.com/user-attachments/assets/7bc590d4-0823-4a17-81eb-962521d111c0" />
-
-<img width="1919" height="1020" alt="Screenshot 2025-10-25 210428" src="https://github.com/user-attachments/assets/8b9407de-74ed-41ee-8ca3-4af226cab005" />
-
-<img width="1919" height="1022" alt="Screenshot 2025-10-25 210548" src="https://github.com/user-attachments/assets/34e68624-5b0b-49ee-8817-6559484d8b69" />
