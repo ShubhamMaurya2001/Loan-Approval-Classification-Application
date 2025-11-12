@@ -93,11 +93,11 @@ except ValueError:
 print(df)
 
 
-def predict_heart_failure(df):
+def predict_loan_approval(df):
     prediction = model_Bagging.predict(df)
     prediction_prob = model_Bagging.predict_proba(df)  
     return prediction , prediction_prob
-prediction , prediction_prob = predict_heart_failure(df)
+prediction , prediction_prob = predict_loan_approval(df)
 print(prediction)
 print(prediction_prob)
 rejected_percent = str((prediction_prob[0,0])*100)[:5] + '%'
@@ -116,3 +116,4 @@ with st.sidebar:
       else:
          st.badge(f"Rejected {rejected_percent}",color='red',icon='❌')
          st.image('rejected.gif')
+
