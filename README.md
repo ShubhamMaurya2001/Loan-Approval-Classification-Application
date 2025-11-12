@@ -64,25 +64,6 @@ The accompanying Jupyter Notebook demonstrates:
 📉 **Leakage Check:** Dataset verified after removing `previous_loan_defaults_on_file` to ensure fair model evaluation.
 
 ---
-
-## ⚙️ MLflow Integration Highlights
-
-* Automatically logs:
-
-  * Model parameters and hyperparameters
-  * Evaluation metrics (accuracy, precision, recall, F1-score)
-  * Confusion matrix and ROC curves
-  * Model artifacts and serialized `.pkl` files
-* Enables:
-
-  * Comparing multiple model runs
-  * Tracking tuning experiments (learning rate, depth, estimators, etc.)
-  * Exporting best-performing model for deployment
-
-🧩 **Example:**
-`mlflow.xgboost.autolog()` used to track experiments seamlessly during model training.
-
----
 ## 🏁 Summary
 
 This project demonstrates a **realistic financial risk modeling workflow**, from **data preprocessing and visualization** to **model optimization and evaluation**, achieving **92% accuracy** with **XGBoost** on a **SMOTE-balanced**, **leakage-free dataset**.
