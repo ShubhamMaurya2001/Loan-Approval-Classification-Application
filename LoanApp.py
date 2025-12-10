@@ -1,9 +1,13 @@
 import joblib
 import pandas as pd
 import streamlit as st
+from pathlib import Path
+
+# Get script directory for absolute paths
+script_dir = Path(__file__).parent.absolute()
 
 # Load Model
-model_Bagging = joblib.load('xgboost.pkl')
+model_Bagging = joblib.load(script_dir / 'xgboost.pkl')
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Build Streamlit
 st.cache_data.clear()
@@ -20,7 +24,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image("original-d7f03bc0db757267c351a8294f1e8092", width='stretch')
+st.image(str(script_dir / "original-d7f03bc0db757267c351a8294f1e8092"), width='stretch')
 
 
 person_home_ownership_list_Selection = ['RENT', 'MORTGAGE', 'OWN', 'OTHER']
