@@ -24,7 +24,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image(str(script_dir / "original-d7f03bc0db757267c351a8294f1e8092"), width='stretch')
+st.image(str(script_dir / "original-d7f03bc0db757267c351a8294f1e8092.gif"), width='stretch')
 
 
 person_home_ownership_list_Selection = ['RENT', 'MORTGAGE', 'OWN', 'OTHER']
