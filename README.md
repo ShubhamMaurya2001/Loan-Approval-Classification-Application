@@ -126,16 +126,31 @@ The accompanying Jupyter Notebook demonstrates:
 
 This project demonstrates a **realistic financial risk modeling workflow**, from **data preprocessing and visualization** to **model optimization and evaluation**, achieving **92% accuracy** with **XGBoost** on a **SMOTE-balanced**, **leakage-free dataset**.
 
+
 ---
 
-<img width="1919" height="1018" alt="Screenshot 2025-10-25 210109" src="https://github.com/user-attachments/assets/e1f84f75-c261-4189-b84f-d86f2b0f43bf" />
+**Live demo (deployed):** https://loan-approval-classification.streamlit.app/
 
-<img width="1919" height="1016" alt="Screenshot 2025-10-25 210118" src="https://github.com/user-attachments/assets/2e9c295e-f50a-4390-90db-d36f080dc0a5" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamMaurya2001/Loan-Approval-Classification-Application/main/Screenshots/Screenshot%202025-12-10%20114701.png" alt="screenshot1" width="900" />
+</p>
 
-<img width="1918" height="923" alt="Screenshot 2025-10-25 210147" src="https://github.com/user-attachments/assets/4a6ba0f3-c334-478f-8c41-3249cb04688c" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamMaurya2001/Loan-Approval-Classification-Application/main/Screenshots/Screenshot%202025-12-10%20114728.png" alt="screenshot2" width="900" />
+</p>
 
-<img width="1919" height="1017" alt="Screenshot 2025-10-25 210208" src="https://github.com/user-attachments/assets/7bc590d4-0823-4a17-81eb-962521d111c0" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamMaurya2001/Loan-Approval-Classification-Application/main/Screenshots/Screenshot%202025-12-10%20115255.png" alt="screenshot3" width="900" />
+</p>
 
-<img width="1919" height="1020" alt="Screenshot 2025-10-25 210428" src="https://github.com/user-attachments/assets/8b9407de-74ed-41ee-8ca3-4af226cab005" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamMaurya2001/Loan-Approval-Classification-Application/main/Screenshots/Screenshot%202025-12-10%20115445.png" alt="screenshot4" width="900" />
+</p>
 
-<img width="1919" height="1022" alt="Screenshot 2025-10-25 210548" src="https://github.com/user-attachments/assets/34e68624-5b0b-49ee-8817-6559484d8b69" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamMaurya2001/Loan-Approval-Classification-Application/main/Screenshots/Screenshot%202025-12-10%20115507.png" alt="screenshot5" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamMaurya2001/Loan-Approval-Classification-Application/main/Screenshots/Screenshot%202025-12-10%20115644.png" alt="screenshot6" width="900" />
+</p>
