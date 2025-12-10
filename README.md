@@ -83,8 +83,6 @@ The accompanying Jupyter Notebook demonstrates:
 * **Model training** using **XGBoost**, optimized for high predictive accuracy
 * **Model evaluation** using multiple metrics
 
-📘 **Notebook:** [`Loan Approval Classification App 🚀 | (92%,MLflow)`](https://www.kaggle.com/code/ahmedismaiil/loan-approval-classification-app-92-mlflow)
-
 ---
 
 ## 🧠 Model Performance — XGBoost + SMOTE
