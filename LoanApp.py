@@ -117,7 +117,7 @@ with st.sidebar:
     if b:
       if prediction == 1:
           st.badge(f"Approved {approved_percent}",color='green',icon='✅')
-          st.image('approved.gif')
+          st.image(str(script_dir / 'approved.gif'))
       else:
          st.badge(f"Rejected {rejected_percent}",color='red',icon='❌')
-         st.image('rejected.gif')
+         st.image(str(script_dir / 'rejected.gif'))
