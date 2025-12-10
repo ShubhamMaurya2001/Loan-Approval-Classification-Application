@@ -124,7 +124,7 @@ The accompanying Jupyter Notebook demonstrates:
 ---
 ## 🏁 Summary
 
-This project demonstrates a **realistic financial risk modeling workflow**, from **data preprocessing and visualization** to **model optimization and evaluation**, achieving **92% accuracy** with **XGBoost** on a **SMOTE-balanced**, **leakage-free dataset**.
+This project demonstrates a **realistic financial risk modeling workflow**, from **data preprocessing and visualization** to **model optimization and evaluation**, achieving **92% F1-score** with **XGBoost** on a **SMOTE-balanced**, **leakage-free dataset**.
 
 
 ---
