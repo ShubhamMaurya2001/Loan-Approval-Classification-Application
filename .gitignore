@@ -42,7 +42,7 @@ Thumbs.db
 .AppleDouble
 .LSOverride
 
-# Project specific
-*.csv
-*.pkl
-*.joblib
+# Project specific - Allow model files
+!*.pkl
+!*.joblib
+!*.csv
